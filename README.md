@@ -1,5 +1,5 @@
 # WooYun-Payload
-从乌云漏洞库中提取的扫描规则
+从乌云漏洞库中提取的扫描规则,内容介绍:https://mp.weixin.qq.com/s/9RHVsw-HtAfo1UuPAqXZEw
 
 ## Burpsuite 辅助插件
 通过http请求包中域名，路径，参数等获取乌云历史漏洞中类似的数据。
